@@ -1,7 +1,7 @@
 # TC2004B - Análisis de Ciencia de Datos
 
-**Nombre:** [Tu Nombre Completo]  
-**Matrícula:** A0XXXXXXX  
+**Nombre:** Gil Brandon Garcia Contreras
+**Matrícula:** A01254164
 **Semestre:** Febrero-Junio 2026
 
 ## Descripción
@@ -25,6 +25,6 @@ TC2004B-TuNombre/
 
 ## Contacto
 
-- Email: [tu correo del Tec]
-- GitHub: [@tuusuario](https://github.com/tuusuario)# TC2004B-gil-brandon
+- Email: [a01254164@tec.mx]
+- GitHub: [@gil_brandon](https://github.com/gil_brandon)# TC2004B-gil-brandon
 Repositorio del curso TC2004B
