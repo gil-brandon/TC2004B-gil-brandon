@@ -58,8 +58,16 @@ python -m venv tc2004b_env
 tc2004b_env\Scripts\Activate.ps1
 ```
 
+
+**Windows (git bash):**
+```bash
+python -m venv tc2004b_env
+source tc2004b_env\Scripts\Activate.ps1
+```
+
 #### 3. Instalar dependencias
 ```bash
+python.exe -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
@@ -67,8 +75,14 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
-
 Navega a `notebooks/` y abre el .ipynb
+
+
+#### 5. Salir de Jupyter
+Cerrar navegador
+```bash
+Control + C
+```
 
 ### Desactivar ambiente
 ```bash
