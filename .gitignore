@@ -210,6 +210,7 @@ __marimo__/
 venv/
 env/
 tc2004b_env/
+Proyect_env/
 .venv
 
 # Python
